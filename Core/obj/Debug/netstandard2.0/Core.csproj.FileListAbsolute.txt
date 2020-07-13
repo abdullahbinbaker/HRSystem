@@ -1,0 +1,35 @@
+F:\t2Training\HRT2\Core\bin\Debug\netstandard2.0\Core.deps.json
+F:\t2Training\HRT2\Core\bin\Debug\netstandard2.0\Core.dll
+F:\t2Training\HRT2\Core\bin\Debug\netstandard2.0\Core.pdb
+F:\t2Training\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+F:\t2Training\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+F:\t2Training\HRT2\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+F:\t2Training\HRT2\Core\obj\Debug\netstandard2.0\Core.dll
+F:\t2Training\HRT2\Core\obj\Debug\netstandard2.0\Core.pdb
+F:\Sanisoft\HRT2\Core\bin\Debug\netstandard2.0\Core.deps.json
+F:\Sanisoft\HRT2\Core\bin\Debug\netstandard2.0\Core.dll
+F:\Sanisoft\HRT2\Core\bin\Debug\netstandard2.0\Core.pdb
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.dll
+F:\Sanisoft\HRT2\Core\obj\Debug\netstandard2.0\Core.pdb
+F:\hrsystem\HRT2\Core\bin\Debug\netstandard2.0\Core.deps.json
+F:\hrsystem\HRT2\Core\bin\Debug\netstandard2.0\Core.dll
+F:\hrsystem\HRT2\Core\bin\Debug\netstandard2.0\Core.pdb
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.dll
+F:\hrsystem\HRT2\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\user\Desktop\New folder (2)\HRT2\Core\obj\Debug\netstandard2.0\Core.pdb
